@@ -1,9 +1,9 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.activision.callofduty.shooter'
 
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "com.gotoubun"
+        applicationId "com.activision.callofduty.shooter"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
